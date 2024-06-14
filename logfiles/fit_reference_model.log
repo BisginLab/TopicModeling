@@ -1,0 +1,120 @@
+06/06/2024 08:10:13 PM loaded corpus index from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm.index
+06/06/2024 08:10:13 PM initializing cython corpus reader from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm
+06/06/2024 08:10:13 PM accepted corpus with 23961 documents, 42836 features, 350124 non-zero entries
+06/06/2024 08:10:13 PM loading Dictionary object from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/dictionary.mm
+06/06/2024 08:10:13 PM Dictionary lifecycle event {'fname': 'C:\\Users\\DELL\\Desktop\\CSC501\\OneDrive-2024-06-06\\Data of tweets/dictionary.mm', 'datetime': '2024-06-06T20:10:13.432335', 'gensim': '4.1.2', 'python': '3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22631-SP0', 'event': 'loaded'}
+06/06/2024 08:10:13 PM Fit STM on the reference corpus assuming 10 topics
+06/06/2024 08:11:23 PM loaded corpus index from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm.index
+06/06/2024 08:11:23 PM initializing cython corpus reader from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm
+06/06/2024 08:11:23 PM accepted corpus with 23961 documents, 42836 features, 350124 non-zero entries
+06/06/2024 08:11:23 PM loading Dictionary object from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/dictionary.mm
+06/06/2024 08:11:23 PM Dictionary lifecycle event {'fname': 'C:\\Users\\DELL\\Desktop\\CSC501\\OneDrive-2024-06-06\\Data of tweets/dictionary.mm', 'datetime': '2024-06-06T20:11:23.109257', 'gensim': '4.1.2', 'python': '3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22631-SP0', 'event': 'loaded'}
+06/06/2024 08:11:23 PM Fit STM on the reference corpus assuming 10 topics
+06/06/2024 08:14:01 PM loaded corpus index from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm.index
+06/06/2024 08:14:01 PM initializing cython corpus reader from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm
+06/06/2024 08:14:01 PM accepted corpus with 23961 documents, 42836 features, 350124 non-zero entries
+06/06/2024 08:14:01 PM loading Dictionary object from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/dictionary.mm
+06/06/2024 08:14:01 PM Dictionary lifecycle event {'fname': 'C:\\Users\\DELL\\Desktop\\CSC501\\OneDrive-2024-06-06\\Data of tweets/dictionary.mm', 'datetime': '2024-06-06T20:14:01.781254', 'gensim': '4.1.2', 'python': '3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22631-SP0', 'event': 'loaded'}
+06/06/2024 08:14:01 PM Fit STM on the reference corpus assuming 10 topics
+06/06/2024 08:23:07 PM loaded corpus index from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm.index
+06/06/2024 08:23:07 PM initializing cython corpus reader from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm
+06/06/2024 08:23:07 PM accepted corpus with 23961 documents, 42836 features, 350124 non-zero entries
+06/06/2024 08:23:07 PM loading Dictionary object from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/dictionary.mm
+06/06/2024 08:23:07 PM Dictionary lifecycle event {'fname': 'C:\\Users\\DELL\\Desktop\\CSC501\\OneDrive-2024-06-06\\Data of tweets/dictionary.mm', 'datetime': '2024-06-06T20:23:07.532645', 'gensim': '4.1.2', 'python': '3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22631-SP0', 'event': 'loaded'}
+06/06/2024 08:23:07 PM Fit STM on the reference corpus assuming 10 topics
+06/06/2024 08:23:07 PM Error fitting model for K=10: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:23:07 PM Fit STM on the reference corpus assuming 20 topics
+06/06/2024 08:23:07 PM Error fitting model for K=20: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:23:07 PM Fit STM on the reference corpus assuming 30 topics
+06/06/2024 08:23:07 PM Error fitting model for K=30: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:23:12 PM Fit STM on the reference corpus assuming 60 topics
+06/06/2024 08:23:12 PM Error fitting model for K=60: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:23:12 PM Fit STM on the reference corpus assuming 70 topics
+06/06/2024 08:23:12 PM Error fitting model for K=70: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:23:12 PM Fit STM on the reference corpus assuming 80 topics
+06/06/2024 08:23:12 PM Error fitting model for K=80: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:24:44 PM loaded corpus index from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm.index
+06/06/2024 08:24:44 PM initializing cython corpus reader from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm
+06/06/2024 08:24:44 PM accepted corpus with 23961 documents, 42836 features, 350124 non-zero entries
+06/06/2024 08:24:44 PM loading Dictionary object from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/dictionary.mm
+06/06/2024 08:24:44 PM Dictionary lifecycle event {'fname': 'C:\\Users\\DELL\\Desktop\\CSC501\\OneDrive-2024-06-06\\Data of tweets/dictionary.mm', 'datetime': '2024-06-06T20:24:44.137696', 'gensim': '4.1.2', 'python': '3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22631-SP0', 'event': 'loaded'}
+06/06/2024 08:24:44 PM Fit STM on the reference corpus assuming 10 topics
+06/06/2024 08:24:44 PM Error fitting model for K=10: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:24:44 PM Fit STM on the reference corpus assuming 20 topics
+06/06/2024 08:24:44 PM Error fitting model for K=20: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:24:44 PM Fit STM on the reference corpus assuming 30 topics
+06/06/2024 08:24:44 PM Error fitting model for K=30: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:24:47 PM Fit STM on the reference corpus assuming 60 topics
+06/06/2024 08:24:47 PM Error fitting model for K=60: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:24:47 PM Fit STM on the reference corpus assuming 70 topics
+06/06/2024 08:24:47 PM Error fitting model for K=70: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:24:47 PM Fit STM on the reference corpus assuming 80 topics
+06/06/2024 08:24:47 PM Error fitting model for K=80: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:26:40 PM loaded corpus index from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm.index
+06/06/2024 08:26:40 PM initializing cython corpus reader from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm
+06/06/2024 08:26:40 PM accepted corpus with 23961 documents, 42836 features, 350124 non-zero entries
+06/06/2024 08:26:40 PM loading Dictionary object from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/dictionary.mm
+06/06/2024 08:26:40 PM Dictionary lifecycle event {'fname': 'C:\\Users\\DELL\\Desktop\\CSC501\\OneDrive-2024-06-06\\Data of tweets/dictionary.mm', 'datetime': '2024-06-06T20:26:40.206490', 'gensim': '4.1.2', 'python': '3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22631-SP0', 'event': 'loaded'}
+06/06/2024 08:26:40 PM Fit STM on the reference corpus assuming 10 topics
+06/06/2024 08:26:40 PM Error fitting model for K=10: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:26:40 PM Fit STM on the reference corpus assuming 20 topics
+06/06/2024 08:26:40 PM Error fitting model for K=20: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:26:40 PM Fit STM on the reference corpus assuming 30 topics
+06/06/2024 08:26:40 PM Error fitting model for K=30: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:26:43 PM Fit STM on the reference corpus assuming 60 topics
+06/06/2024 08:26:44 PM Error fitting model for K=60: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:26:44 PM Fit STM on the reference corpus assuming 70 topics
+06/06/2024 08:26:44 PM Error fitting model for K=70: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:26:44 PM Fit STM on the reference corpus assuming 80 topics
+06/06/2024 08:26:44 PM Error fitting model for K=80: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:36:14 PM loaded corpus index from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm.index
+06/06/2024 08:36:14 PM initializing cython corpus reader from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm
+06/06/2024 08:36:14 PM accepted corpus with 23961 documents, 42836 features, 350124 non-zero entries
+06/06/2024 08:36:14 PM loading Dictionary object from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/dictionary.mm
+06/06/2024 08:36:14 PM Dictionary lifecycle event {'fname': 'C:\\Users\\DELL\\Desktop\\CSC501\\OneDrive-2024-06-06\\Data of tweets/dictionary.mm', 'datetime': '2024-06-06T20:36:14.136598', 'gensim': '4.1.2', 'python': '3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22631-SP0', 'event': 'loaded'}
+06/06/2024 08:36:14 PM Fit STM on the reference corpus assuming 10 topics
+06/06/2024 08:36:14 PM Error fitting model for K=10: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:36:14 PM Fit STM on the reference corpus assuming 20 topics
+06/06/2024 08:36:14 PM Error fitting model for K=20: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:36:14 PM Fit STM on the reference corpus assuming 30 topics
+06/06/2024 08:36:14 PM Error fitting model for K=30: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:36:17 PM Fit STM on the reference corpus assuming 60 topics
+06/06/2024 08:36:17 PM Error fitting model for K=60: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:36:17 PM Fit STM on the reference corpus assuming 70 topics
+06/06/2024 08:36:17 PM Error fitting model for K=70: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/06/2024 08:36:17 PM Fit STM on the reference corpus assuming 80 topics
+06/06/2024 08:36:18 PM Error fitting model for K=80: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/12/2024 05:13:30 PM loaded corpus index from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm.index
+06/12/2024 05:13:30 PM initializing cython corpus reader from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm
+06/12/2024 05:13:30 PM accepted corpus with 23961 documents, 42836 features, 350124 non-zero entries
+06/12/2024 05:13:30 PM loading Dictionary object from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/dictionary.mm
+06/12/2024 05:13:31 PM Dictionary lifecycle event {'fname': 'C:\\Users\\DELL\\Desktop\\CSC501\\OneDrive-2024-06-06\\Data of tweets/dictionary.mm', 'datetime': '2024-06-12T17:13:31.011969', 'gensim': '4.1.2', 'python': '3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22631-SP0', 'event': 'loaded'}
+06/12/2024 05:13:31 PM Fit STM on the reference corpus assuming 10 topics
+06/12/2024 05:13:31 PM Error fitting model for K=10: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/12/2024 05:13:31 PM Fit STM on the reference corpus assuming 20 topics
+06/12/2024 05:13:31 PM Error fitting model for K=20: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/12/2024 05:13:31 PM Fit STM on the reference corpus assuming 30 topics
+06/12/2024 05:13:31 PM Error fitting model for K=30: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/12/2024 05:13:35 PM Fit STM on the reference corpus assuming 60 topics
+06/12/2024 05:13:36 PM Error fitting model for K=60: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/12/2024 05:13:36 PM Fit STM on the reference corpus assuming 70 topics
+06/12/2024 05:13:36 PM Error fitting model for K=70: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/12/2024 05:13:36 PM Fit STM on the reference corpus assuming 80 topics
+06/12/2024 05:13:36 PM Error fitting model for K=80: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/12/2024 05:17:06 PM loaded corpus index from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm.index
+06/12/2024 05:17:06 PM initializing cython corpus reader from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/BoW_corpus_tweets.mm
+06/12/2024 05:17:06 PM accepted corpus with 23961 documents, 42836 features, 350124 non-zero entries
+06/12/2024 05:17:06 PM loading Dictionary object from C:\Users\DELL\Desktop\CSC501\OneDrive-2024-06-06\Data of tweets/dictionary.mm
+06/12/2024 05:17:06 PM Dictionary lifecycle event {'fname': 'C:\\Users\\DELL\\Desktop\\CSC501\\OneDrive-2024-06-06\\Data of tweets/dictionary.mm', 'datetime': '2024-06-12T17:17:06.793046', 'gensim': '4.1.2', 'python': '3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22631-SP0', 'event': 'loaded'}
+06/12/2024 05:17:06 PM Fit STM on the reference corpus assuming 10 topics
+06/12/2024 05:17:06 PM Error fitting model for K=10: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/12/2024 05:17:06 PM Fit STM on the reference corpus assuming 20 topics
+06/12/2024 05:17:06 PM Error fitting model for K=20: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/12/2024 05:17:06 PM Fit STM on the reference corpus assuming 30 topics
+06/12/2024 05:17:07 PM Error fitting model for K=30: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/12/2024 05:17:12 PM Fit STM on the reference corpus assuming 60 topics
+06/12/2024 05:17:12 PM Error fitting model for K=60: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/12/2024 05:17:12 PM Fit STM on the reference corpus assuming 70 topics
+06/12/2024 05:17:12 PM Error fitting model for K=70: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+06/12/2024 05:17:12 PM Fit STM on the reference corpus assuming 80 topics
+06/12/2024 05:17:12 PM Error fitting model for K=80: int() argument must be a string, a bytes-like object or a number, not 'NoneType'
